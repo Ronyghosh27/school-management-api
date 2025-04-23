@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "03336ae3-ec16-411e-aae8-ff9e542d98e7",
+		"name": "School Management APIs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40442216"
+	},
+	"item": [
+		{
+			"name": "Add School",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "List Schools",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
